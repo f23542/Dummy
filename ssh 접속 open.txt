@@ -1,0 +1,7 @@
+
+sudo apt install openssh-server
+
+sudo ufw allow 22/tcp
+sudo ufw allow 3389/tcp
+sudo ufw allow 5900/tcp
+sudo ufw allow 5901/tcp
